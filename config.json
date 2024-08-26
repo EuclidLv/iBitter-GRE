@@ -1,0 +1,13 @@
+{
+    "Python Version": "3.11.7",
+    "Packages": {
+        "numpy": "1.23.5",
+        "pandas": "2.2.1",
+        "scikit-learn": "1.3.0",
+        "joblib": "1.2.0",
+        "collections": "Not Installed",
+        "Bio": "Not Installed",
+        "torch": "2.2.2+cu121",
+        "transformers": "4.37.2"
+    }
+}
