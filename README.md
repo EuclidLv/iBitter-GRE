@@ -24,6 +24,7 @@ Reference.
    
    (b). If you don't want to use the websever you need to use the extract_features_use.py to extract 
        specific features to make sure the model can run successfully.
+        *You show download the index.csv to make sure this script works, and also change the path where it located in the extract_features_use.py
    
 5. Prediction
 
