@@ -32,9 +32,9 @@ Reference.
    
         *You show change the path where the data the predictor need is in your local machine
    
-   (b). If you just want to use the model that we've built download the stacking.pkl and use_predictor.py
+   (b). If you just want to use the model that we've built download the stacking.pkl, scaler.pkl and use_predictor.py
    
-        *You show change the path where the stacking.pkl and the data the predictor need are in your local machine
+        *You show change the path where the stacking.pkl, scaler.pkl and the data the predictor need are in your local machine
    
 7. Data
    
