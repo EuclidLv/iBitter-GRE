@@ -29,12 +29,3 @@ Reference.
        respectively.
    (b) File training.csv and file training.csv contains the data after extraction and selected, 
        respectively.
-
-
-
-
-
-
-   (b) 
-
- 
