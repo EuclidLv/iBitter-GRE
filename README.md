@@ -41,4 +41,7 @@ Reference.
        respectively.
    
    (b). File training.csv and file training.csv contains the data after extraction and selected,
-        respectively.   
+        respectively.
+   
+NOTE:
+   All the path in the codes should replaced with your own path
