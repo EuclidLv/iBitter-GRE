@@ -28,9 +28,10 @@ Reference.
 5. Prediction
 
    (a). prediction.py contains the codes how we built this predictor
+        *You show change the path where the data the predictor need is in your local machine
    
    (b). If you just want to use the model that we've built download the stacking.pkl and use_predictor.py
-        *You show change the path where the stacking.pkl is in your local machine
+        *You show change the path where the stacking.pkl and the data the predictor need are in your local machine
    
 7. Data
    
