@@ -26,17 +26,17 @@ The webserver we provide can be access at [Bitter-TressStacking](http://121.36.1
    
    (b). If you don't want to use the websever you need to use the extract_features_use.py to extract 
        specific features to make sure the model can run successfully.
-        -You show download the index.csv to make sure this script works, and also change the path where it located in the extract_features_use.py
+        - You show download the index.csv to make sure this script works, and also change the path where it located in the extract_features_use.py
    
 ### 3. Prediction
 
    (a). prediction.py contains the codes how we built this predictor
    
-        -You show change the path where the data the predictor need is in your local machine
+        - You show change the path where the data the predictor need is in your local machine
    
    (b). If you just want to use the model that we've built download the stacking.pkl, scaler.pkl and use_predictor.py
    
-        -You show change the path where the stacking.pkl, scaler.pkl and the data the predictor need are in your local machine
+        - You show change the path where the stacking.pkl, scaler.pkl and the data the predictor need are in your local machine
    
 ### 4. Data
    
