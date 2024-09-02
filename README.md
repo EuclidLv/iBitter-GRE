@@ -5,38 +5,40 @@ Note:
 (1) The websever only accepts proteins with a length less than 1024
 (2) If you have any questions regarding tasks, please send an email to 
 
-Reference.
+
+##Reference.
+
+
+##Webserver.
+The webserver we provide can be access at [Bitter-TressStacking](http://121.36.197.223:45910/)
 
 
 
 
-
-
-
-
-1. Built virtualenv
+##
+###1. Built virtualenv
    
    (a). The python edition and imported packages with edition is in config.jason
    
-3. Extract features
+###2. Extract features
    
    (a). extract_features.py contains the codes we used when built our model.
    
    (b). If you don't want to use the websever you need to use the extract_features_use.py to extract 
        specific features to make sure the model can run successfully.
-        *You show download the index.csv to make sure this script works, and also change the path where it located in the extract_features_use.py
+        -You show download the index.csv to make sure this script works, and also change the path where it located in the extract_features_use.py
    
-5. Prediction
+###3. Prediction
 
    (a). prediction.py contains the codes how we built this predictor
    
-        *You show change the path where the data the predictor need is in your local machine
+        -You show change the path where the data the predictor need is in your local machine
    
    (b). If you just want to use the model that we've built download the stacking.pkl, scaler.pkl and use_predictor.py
    
-        *You show change the path where the stacking.pkl, scaler.pkl and the data the predictor need are in your local machine
+        -You show change the path where the stacking.pkl, scaler.pkl and the data the predictor need are in your local machine
    
-7. Data
+###4. Data
    
    (a). File training.fasta and file testing.fasta contains the data used for training and testing, 
        respectively.
