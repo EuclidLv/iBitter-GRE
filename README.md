@@ -6,21 +6,21 @@ Note:
 (2) If you have any questions regarding tasks, please send an email to 
 
 
-##Reference.
+## Reference.
 
 
-##Webserver.
+## Webserver.
 The webserver we provide can be access at [Bitter-TressStacking](http://121.36.197.223:45910/)
 
 
 
 
-##
-###1. Built virtualenv
+## Code
+### 1. Built virtualenv
    
    (a). The python edition and imported packages with edition is in config.jason
    
-###2. Extract features
+### 2. Extract features
    
    (a). extract_features.py contains the codes we used when built our model.
    
@@ -28,7 +28,7 @@ The webserver we provide can be access at [Bitter-TressStacking](http://121.36.1
        specific features to make sure the model can run successfully.
         -You show download the index.csv to make sure this script works, and also change the path where it located in the extract_features_use.py
    
-###3. Prediction
+### 3. Prediction
 
    (a). prediction.py contains the codes how we built this predictor
    
@@ -38,7 +38,7 @@ The webserver we provide can be access at [Bitter-TressStacking](http://121.36.1
    
         -You show change the path where the stacking.pkl, scaler.pkl and the data the predictor need are in your local machine
    
-###4. Data
+### 4. Data
    
    (a). File training.fasta and file testing.fasta contains the data used for training and testing, 
        respectively.
