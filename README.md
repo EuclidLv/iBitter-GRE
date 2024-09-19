@@ -1,6 +1,6 @@
-# BitterTree-Stacking
+# iBitter-GRE
 BitterTree-Stacking is a bitter peptides predictor, using ESM-2 and other traditional desriptors to extract features with stacking method.
-The websever of BitterTree-Stacking is freely available at 
+The websever of iBitter-GRE is freely available at 
 Note:
 (1) The websever only accepts proteins with a length less than 1024
 (2) If you have any questions regarding tasks, please send an email to 
@@ -10,7 +10,7 @@ Note:
 
 
 ## Webserver.
-The webserver we provide can be access at [Bitter-TressStacking](http://121.36.197.223:45910/)
+The webserver we provide can be access at [iBitter-GRE](http://121.36.197.223:45910/)
 
 
 
