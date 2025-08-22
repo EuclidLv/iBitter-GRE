@@ -6,7 +6,11 @@ Note:
 (2) If you have any questions regarding tasks, please send an email to 
 
 
-## Reference.
+### Reference
+- Lv, J., Geng, A., Pan, Z., Wei, L., Zou, Q., Zhang, Z., & Cui, F. (2025).  
+  *iBitter-GRE: A Novel Stacked Bitter Peptide Predictor with ESM-2 and Multi-View Features.*  
+  Journal of Molecular Biology, 437(8), 169005.  
+  https://doi.org/10.1016/j.jmb.2025.169005
 
 
 ## Webserver.
