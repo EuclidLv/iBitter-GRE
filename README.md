@@ -19,9 +19,9 @@ This tool enables accurate identification of bitter peptides, assisting research
 The **iBitter-GRE web server** is freely available at:  
  [iBitter-GRE](http://121.36.197.223:45107/)
 
- **Notes:**  
+> **Notes:**  
 > 1. The web server only accepts protein sequences with length **< 1024**.  
-> 2. For any questions, please contact us via email: *your_email@domain.com*  
+> 2. For any questions, please contact us via email: *jingweieuclid@gmail.com*  
 
 ---
 
